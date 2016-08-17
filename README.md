@@ -1,7 +1,7 @@
 Group Thor Bot
 ==============
 
-:zap: Advanced Anti Spam and Super Group Manager Bot For Telegram
+:large_blue_diamond: A Advanced Anti Spam and Super Group Manager Bot For Telegram
 
 [![https://telegram.me/GroupThorBot](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Group%20Thor-blue.svg)](https://telegram.me/GroupThorBot)
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
