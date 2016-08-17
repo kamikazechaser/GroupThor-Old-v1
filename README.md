@@ -11,7 +11,7 @@ _All Bug Fixes And Improvements From [RememberTheAir](https://github.com/Remembe
 
 ### Announcement
 
-Latest _v3.0_ Update Is Applied.
+Latest _v3.1_ Update Is Applied.
 
 ### Additional Features 
 
