@@ -116,6 +116,8 @@ Command | Description
 
 ###Sudo 
 
+Command | Description 
+--- | ---
 /aadmin | get a list of all admin commands
 /astop | stop the bot and snapshot the Redis DB
 /abackup | backup the entire bot
