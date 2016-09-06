@@ -353,7 +353,7 @@ return {
             tempban_week = 'The time limit is one week (10.080 minutes)',
             tempban_banned = 'User &&&1 banned. Ban expiration:',
             tempban_updated = 'Ban time updated for &&&1. Ban expiration:',
-            general_motivation = 'I can\'t kick this user.\nProbably I\'m not an Amdin, or the user is an Admin iself'
+            general_motivation = 'I can\'t kick this user.\nProbably I\'m not an Admin, or the user is an Admin him/herself'
         },
         floodmanager = {
             number_invalid = '`&&&1` is not a valid value!\nThe value should be *higher* than `3` and *lower* then `26`',
