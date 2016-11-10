@@ -7,15 +7,11 @@ Group Thor Bot
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
 [![https://telegram.me/joinchat/CA8baT9XG6yGaMlGi3qj3A](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-SupportGroup-blue.svg)](https://telegram.me/joinchat/CA8baT9XG6yGaMlGi3qj3A)
 
-_All Bug Fixes And Improvements From [RememberTheAir](https://github.com/RememberTheAir/GroupButler) Will Be Relayed Directly To The [Bot](https://telegram.me/GroupThorBot) To Ensure It Is Up To Date!_
-
 ### Announcement
 
 Latest _v3.1_ Update Is Applied.
 
 ### Additional Features 
-
-_This is in addition To **all** features already included in [GroupButler](https://github.com/RememberTheAir/GroupButler)_
 
 - Added Anti-Telegram Links
 - Changed Command Syntax By Replacing '/' With '!'. 
